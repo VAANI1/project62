@@ -1,0 +1,42 @@
+body {
+    background-color: aquamarine;
+    text-align: center;
+    color: black;
+
+}
+
+.menu {
+    text-align: right;
+    color: crimson;
+    background-color: burlywood;
+
+}
+
+.link hover {
+    color: floralwhite;
+    background-color: chartreuse;
+
+}
+
+.link {
+    color: blue;
+}
+
+.flowers {
+    width: 200px;
+    height: 200px;
+    border-bottom-style: double;
+}
+
+.myCarousel {
+    width: 200px;
+    height: 200px;
+
+}
+
+.img {
+    width: 200px;
+    height: 200px;
+    text-align: center;
+
+}
